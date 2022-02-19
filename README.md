@@ -2,7 +2,7 @@
 **A passionnate,Creative Student From Tunisia**
 - :mortar_board: Business Intelligence student
 
-- 🌱 I'm currently working as Business Consultant Intern to get my bachelor degree
+- 🌱 I'm currently working as Business Consultant Intern at Keyrus
 
 - :e-mail: How to reach me emnalahbib23@gmail.com
 - :page_facing_up: Know about my experiences [Linkedin Account](https://www.linkedin.com/in/emna-lahbib-a3102119b/)
