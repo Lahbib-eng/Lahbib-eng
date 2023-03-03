@@ -1,8 +1,7 @@
 ### Hi there :hand: Im Emna
-**A passionnate,Creative Student From Tunisia**
-- :mortar_board: Business Intelligence student
-
-- 🌱 I'm currently working as BI consultant intern at Keyrus
+****
+- :mortar_board:  Data Enthusiast 
+- 🌱 I'm currently doing a master degree in knowledge management with specialization in Business Intelligence
 
 - :e-mail: How to reach me emnalahbib23@gmail.com
 - :page_facing_up: Know about my experiences [Linkedin Account](https://www.linkedin.com/in/emna-lahbib-a3102119b/)
@@ -19,7 +18,6 @@
 <img align="left" alt="BootStrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;"/>
-<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Oracle" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="padding-right:10px;" />
